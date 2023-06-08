@@ -2,4 +2,6 @@ este es el primer proyecto para subir a github
 
 estas son las primeras lineas de comandos
 
-esta seria la tercer linea de codigo
+este es un cambio a la tercer liena de codigo
+
+y agregamos la cuarta
