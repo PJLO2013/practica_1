@@ -4,4 +4,8 @@ estas son las primeras lineas de comandos
 
 este es un cambio a la tercer liena de codigo
 
-y agregamos la cuarta
+quitamos un renglon y dejmos este
+
+ademas agregamos otro renglon
+
+y otra linea
